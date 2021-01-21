@@ -1,0 +1,10 @@
+.Title-container{
+
+    padding-top: 5px;
+    padding-bottom: 60px;    /* background-color: var(--primary); */
+    /* background: var(--primary--hil); */
+    text-align: center;
+    font-size: 32px;
+    color: var(--primary);
+
+}
