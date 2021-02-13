@@ -1,16 +1,16 @@
 import React from "react"
 import styles from "./about-css-modules.module.css"
-import Container from "../components/container"
+import Layout from "../components/Layout"
 
 console.log(styles)
 
 
 export default function About() {
   return (
-    <Container>
-      <h1>About CSS Modules</h1>
-      <p>CSS Modules are cool</p>
+    <Layout>
+      <h1>Research</h1>
+      <p>My research at MIT</p>
 
-    </Container>
+    </Layout>
   )
 }

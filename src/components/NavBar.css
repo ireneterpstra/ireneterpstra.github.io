@@ -1,5 +1,6 @@
 .NavBar-container {
-    padding: 80px;
+    padding: 60px;
+    justify-content: space-between;
     /* background-color: var(--primary); */
     /* background: var(--primary--hil); */
     /* background: linear-gradient(90deg, rgba(14,11,22,1) 28%,  rgba(223,248,235,1) 99%); */
@@ -11,7 +12,8 @@
     font-family: "Syncopate";
     justify-content: center;
     text-align: center;
-    padding: 20px
+    padding: 20px;
+    text-decoration: none;
 
 }
 
@@ -20,7 +22,7 @@
 .NavBar-linkContainer {
     /* margin-left: var(--l); */
     font-family: "DM Sans";
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
     padding: 5px
 }

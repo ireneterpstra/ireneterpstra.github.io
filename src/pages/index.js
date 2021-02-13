@@ -1,23 +1,21 @@
 import React from "react"
-// import Layout from "../components/layout"
+import Layout from "../components/Layout"
 
-import NavBar from "../components/NavBar.js";
+// import NavBar from "../components/NavBar.js";
 import SEO from "../components/seo.js"
 
 
 
 // import "../utils/utilities.css";
-import "./App.css";
+// import "./App.css";
 
 
 
 export default function Home() {
   return (
-    < >
+    <Layout>
       <SEO title="Irene" />
-      <section className="App-top">
-        <NavBar />
-      </section>
+      
       <div className="App-container">
         {/* <h1>Hello</h1> */}
         <h2>Wecome to my website</h2>
@@ -46,6 +44,6 @@ export default function Home() {
           <li>Haptic Remotely Operated Vehicle Controller</li>
         </ul>
       </div>
-    </>
+    </Layout>
   )
 }
