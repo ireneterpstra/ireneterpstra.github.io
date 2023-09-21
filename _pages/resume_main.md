@@ -17,6 +17,8 @@ Get the [PDF here]({{ site.url }}/assets/Irene Terpstra - Resume.pdf).
 
 ![](/images/Irene Terpstra - Resume.png)
 
+Contact me through [LinkedIn](www.linkedin.com/in/irene-terpstra-888b631b4).
+
 <!-- ## Past Projects
 
 ### Robotics Science and Systems

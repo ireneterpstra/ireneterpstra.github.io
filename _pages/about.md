@@ -11,6 +11,8 @@ I am excited to be involved with projects that let me explore using machine lear
 
 In my free time time, I love making fun personal projects, climbing, dancing, and photography.
 
+Contact me through [LinkedIn](www.linkedin.com/in/irene-terpstra-888b631b4).
+
 
 
 <!-- ## Features
