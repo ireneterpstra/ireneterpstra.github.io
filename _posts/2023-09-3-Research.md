@@ -1,10 +1,37 @@
 ---
 layout: post
-title: Circuit Design through Large Language Models and Reinforcement Learning 
-categories: [MEng]
+title: Reserach
+categories: [Research]
 ---
 
-I am currently working on my master's thesis with the MIT IBM Watson AI lab. My project focuses on using Large Language Models (LLMs) to improve the design process of Analog Integrated Circuits. In my thesis, I propose a method that uses the power and knowledge of LLMs to guide the training of a reinforcement learning algorithm. 
+Throughout my time at MIT, I have been conducting research in a variety of labs.
+
+<!-- ### Sit to Stand Robot
+MIT Seethapathni Motor Control Group
+Developed simulation for a reinforcement learning algorithm to model locomotor adaption in novel walking
+environments. -->
+
+### RL for Locomotor Adaption
+Worked with the MIT Seethapathni Motor Control Group developing simulation for a reinforcement learning algorithm to model locomotor adaption in novel walking environments.
+
+
+### Electrochemical Sensor 
+Worked at MIT Sea Grant developing strategies for heterogeneous sensor calibration to align the LIDAR, RADAR, and camera on an autonomous maritime surface vehicle in Python using OpenCV to improve the machine learning-based autonomous vehicle control.
+
+### Electrochemical Sensor 
+
+Designed and fabricated a handheld heavy metal detection device in MIT Sea Grant's lab modeled on a shark’s olfactory system that uses a microcontroller programmed in C++ to record electrochemical measurements with a biomimetic sensor.
+![](/images/IreneTerpstra_BiomimeticSharkOlfactorySensorFall2020.png)
+See [PDF here]({{ site.url }}/assets/IreneTerpstra_BiomimeticSharkOlfactorySensorFall2020.pdf).
+
+
+### Returning Proprioception 
+Worked with MIT Media Lab Biomechatronics Project Group developing electronics to generate electrical signal patterns that stimulate AMI muscle pairs in a lower leg amputee to induce proprioception for a prosthetic through electrical stimulation of nerves.
+
+Successfully restored the feeling in the patient’s leg with the electronics I designed.
+
+
+
 
 
 
