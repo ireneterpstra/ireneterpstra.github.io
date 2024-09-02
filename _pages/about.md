@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 
-I am a Master's Student at MIT focusing on large language modes and reinforcement learning. Graduating spring 2024. 
+I am currently a Machine Learning Engineer Intern at Themis AI working on using uncertainty estimation to improve the real-time performance of reinforcement learning algorithms for energy grid management and robotic manipulation
+
+Recently graduated with my Master's from MIT focusing on large language models and reinforcement learning.
 
 I am excited to be involved with projects that let me explore using machine learning for robotics systems and autonomous vehicle control.
 
