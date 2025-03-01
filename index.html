@@ -83,9 +83,48 @@
             style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
 
+              <tr onmouseout="ebm_dp_stop()" onmouseover="ebm_dp_start()">  <!--bgcolor="#ffffd0"-->
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='ebm_dp_video'>
+                      <img src="images/dp_manifold.gif" alt="DP Maze2d Exploration" width=100% style="border-bottom:20px solid black; border-top:20px solid black;">
+                      <!-- <video width=100% height=100% muted autoplay loop>
+                        <source src="data/dp_manifold.gif" type="video/mp4">
+                        Your browser does not support the video tag.
+                      </video></div> -->
+                    </div>
+                    <img src='images/ce_stacked.png' width="160">
+
+                  </div>
+                  <script type="text/javascript">
+                    function ebm_dp_start() {
+                      document.getElementById('ebm_dp_video').style.opacity = "1";
+                      
+
+                    }
+
+                    function ebm_dp_stop() {
+                      document.getElementById('ebm_dp_video').style.opacity = "0";
+                    }
+                    ebm_dp_stop()
+                  </script>
+                </td>
+
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/ireneterpstra/itps/tree/main">
+                    <span class="papertitle">Policy Editing, Policy Steering with an Energy Based Model</span>
+                  </a>
+                  <br>
+                  <strong>Irene Terpstra</strong>, 
+                  <a href="https://yanweiw.github.io/">Yanwei Wang</a>
+                  <br>
+                  <p>We propose a Diffusion Model that learns an energy landscape through contrastive shaping can incorporate human preferences by directly modifying its energy landscape.</p>
+                </td>
+              </tr>
+
               <tr>
                 <td style="padding:16px;width:20%;vertical-align:middle">
-                  <img src="data/llm_rl_loop.png" alt="clean-usnob" width="160" height="50">
+                  <img src="images/llm_rl_loop.png" alt="clean-usnob" width="160" height="50">
                 </td>
                 <td style="padding:8px;width:80%;vertical-align:middle">
                   <a href="data/MIT_MEng_Thesis_Irene.pdf">
